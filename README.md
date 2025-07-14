@@ -16,6 +16,8 @@ This config applies for the following:
 
 The following EFI folder applies for my AMD system. You will need to change the UUID and Serial in the config.plist.
 
+At the current moment, some kexts and OpenCore itself is outdated. I will soon update these to the newest version when possible.
+
 **Warning:** I225-V networking on either the config or my system is completely f*cked. It will NOT boot if you have AppleIGC.kext or the networking enabled in BIOS. If it works for you, amazing. If you figure out a fix, I love you.
 
 I will try my best to keep this folder up to date if I learn it doesn't work with new macOS versions.
