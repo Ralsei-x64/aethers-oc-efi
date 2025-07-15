@@ -1,9 +1,6 @@
 ## Aether's OpenCore AMD EFI folder
 
-<img width="2560" height="1440" alt="x11rhgg86t9f1" src="https://github.com/user-attachments/assets/b8140c69-d0eb-4348-afbf-262f15d6a22b" />
-
-
-A screenshot of it running on my system. Yes, I love Ralsei.
+<img width="2560" height="1440" alt="Screenshot 2025-07-15 at 15 21 53" src="https://github.com/user-attachments/assets/93b97780-86f2-40cf-a051-66ab77afec58" />
 
 
 
