@@ -8,7 +8,7 @@
 This config applies for the following:
  - AMD Ryzen 9 5900X
  - AMD Radeon RX 6600XT
- - ROG Strix B550-F Wifi II
+ - ROG Strix B550-F Wi-Fi II
  - Intel I225-V Ethernet (Non-Functional Atm)
  - macOS Sequoia 15 (Might work with Tahoe)
 
@@ -23,7 +23,7 @@ I will try my best to keep this folder up to date if I learn it doesn't work wit
 Known issues:
  - Networking (Expected)
  - Wi-Fi (Obviously)
- - Bluetooth
+ - Bluetooth (Due to being integrated with Wi-Fi module)
  - iServices (Due to missing proper networking)
  - Virtualization (This is known on AMD hackintoshes)
  - Some Adobe things.
