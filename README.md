@@ -13,9 +13,18 @@
 The USB ports and AMD patches are tailored to my specific configuration. Be careful if you decide to use slightly different hardware.
 
 **Compatible OS Versions:**
-From Ventura 13 to Sequoia 15. macOS Tahoe 26 will not boot due to outdated AMD patches. I am currently working on a redone version of my EFI which features support for Tahoe. It is nearly complete but AppleIGC is causing issues relating to system hangs, crashes, and instability. I will most likely release this EFI soon as a pre-release but you might be stuck without any ethernet. It's up to the developer of AppleIGC or the AMD OS X community to release a functional version of AppleIGC.
+Only macOS Sequoia 15 is tested. Your luck with anything newer or older will vary. macOS Tahoe 26 will not boot due to outdated AMD patches. I am currently working on a redone version of my EFI which features support for Tahoe. It is nearly complete but AppleIGC is causing issues relating to system hangs, crashes, and instability. I will most likely release this EFI soon as a pre-release but you might be stuck without any ethernet. It's up to the developer of AppleIGC or the AMD OS X community to release a functional version of AppleIGC.
 
 You will need to use MacSerial in order to generate SMBIOS info if you want to use iServices.
+
+**How to add to a USB flash drive:**
+1. Format it to FAT32 with GPT.
+2. Add the files to the flash drive's EFI directory.
+3. Use MacSerial to add SMBIOS info to plist.
+4. Add macOS recovery files to boot to an installer.
+6. Boot into the USB drive.
+
+Please refer to the Dortania AMD guide for important settings you might need to change.
 
 **Known issues:**
  - Wi-Fi
