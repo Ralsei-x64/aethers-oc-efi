@@ -13,7 +13,7 @@
 The USB ports and AMD patches are tailored to my specific configuration. Be careful if you decide to use slightly different hardware.
 
 **Compatible OS Versions:**
-Only macOS Sequoia 15 is tested. Your luck with anything newer or older will vary. macOS Tahoe 26 will not boot due to outdated AMD patches. I am currently working on a redone version of my EFI which features support for Tahoe. It is nearly complete but AppleIGC is causing issues relating to system hangs, crashes, and instability. I will most likely release this EFI soon as a pre-release but you might be stuck without any ethernet. It's up to the developer of AppleIGC or the AMD OS X community to release a functional version of AppleIGC.
+Only macOS Sequoia 15 is tested. Your luck with anything newer or older will vary.
 
 You will need to use MacSerial in order to generate SMBIOS info if you want to use iServices.
 
@@ -39,3 +39,5 @@ ps. If you have anything to contribute, please do <3.
 **Thanks to the AMD OS X discord for providing a patched version of AppleIGC which works with my system.**
 
 *Warning: For the current version ("Fixing I225-V Networking"), configurator tools were used. The upcoming version which works with Tahoe will feature a redone config from scratch.*
+
+*macOS Tahoe 26 will not boot due to outdated AMD patches. I am currently working on a redone version of my EFI which features support for Tahoe. It is nearly complete but AppleIGC is causing issues relating to system hangs, crashes, and instability. I will most likely release this EFI soon as a pre-release but you might be stuck without any ethernet. It's up to the developer of AppleIGC or the AMD OS X community to release a functional version of AppleIGC.*
