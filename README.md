@@ -1,6 +1,4 @@
-<img width="744" height="268" alt="Aether's EFI" src="https://github.com/user-attachments/assets/ea492f5b-eb46-49b9-a561-380d7db658b4" />
-
-
+<img width="614" height="224" alt="Logo" src="https://github.com/user-attachments/assets/7c6032d0-51f0-4b01-a036-14700149fe98" />
 
 
 ## Aether's OpenCore AMD EFI folder
