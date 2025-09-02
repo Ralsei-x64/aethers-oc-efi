@@ -4,7 +4,7 @@
 
 <img width="2560" height="1440" alt="Screenshot 2025-07-15 at 15 21 53" src="https://github.com/user-attachments/assets/93b97780-86f2-40cf-a051-66ab77afec58" />
 
-For AMD only!
+**For AMD only!**
 
 **This config applies for the following:**
  - AMD Ryzen 9 5900X
@@ -23,7 +23,7 @@ You will need to use MacSerial in order to generate SMBIOS info if you want to u
 **How to add to a USB flash drive:**
 1. Format it to FAT32 with GPT.
 2. Add the files to the flash drive's EFI directory.
-3. Use MacSerial to add SMBIOS info to plist.
+3. Use **[MacSerial](https://github.com/acidanthera/OpenCorePkg)** to add SMBIOS info to plist.
 4. Add macOS recovery files to boot to an installer.
 6. Boot into the USB drive.
 
