@@ -1,7 +1,6 @@
 <img width="614" height="224" alt="Logo" src="https://github.com/user-attachments/assets/7c6032d0-51f0-4b01-a036-14700149fe98" />
 
 
-## Aether's OpenCore AMD EFI folder
 
 <img width="2560" height="1440" alt="Screenshot 2025-07-15 at 15 21 53" src="https://github.com/user-attachments/assets/93b97780-86f2-40cf-a051-66ab77afec58" />
 
