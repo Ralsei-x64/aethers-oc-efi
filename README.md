@@ -12,7 +12,7 @@ For AMD only!
  - ROG Strix B550-F Wi-Fi II
  - Intel I225-V Ethernet
 
-The USB ports and AMD patches are tailored to my specific configuration. Be careful if you decide to use slightly different hardware.
+The USB ports and AMD patches are tailored to my specific configuration. Be careful if you decide to use slightly different hardware. I doubt switching GPUs or CPUs will be an issue. However, update the core count patches to fit your CPU core count. WhateverGreen should take care of most GPU related patches; just make sure you're using an AMD GPU.
 
 **Compatible OS Versions:**
 Only macOS Sequoia 15 is tested. Your luck with anything newer or older will vary.
