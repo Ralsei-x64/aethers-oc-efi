@@ -1,4 +1,5 @@
-<img width="700" height="224" alt="Aether's EFI" src="https://github.com/user-attachments/assets/08146284-85c6-4183-883f-f3cde47d5901" />
+<img width="744" height="268" alt="Aether's EFI" src="https://github.com/user-attachments/assets/ea492f5b-eb46-49b9-a561-380d7db658b4" />
+
 
 
 
