@@ -1,7 +1,10 @@
-<img width="2560" height="1440" alt="Screenshot 2025-07-15 at 15 21 53" src="https://github.com/user-attachments/assets/93b97780-86f2-40cf-a051-66ab77afec58" />
+<img width="1062" height="382" alt="Aether's EFI" src="https://github.com/user-attachments/assets/08146284-85c6-4183-883f-f3cde47d5901" />
+
 
 
 ## Aether's OpenCore AMD EFI folder
+
+<img width="2560" height="1440" alt="Screenshot 2025-07-15 at 15 21 53" src="https://github.com/user-attachments/assets/93b97780-86f2-40cf-a051-66ab77afec58" />
 
 
 **This config applies for the following:**
