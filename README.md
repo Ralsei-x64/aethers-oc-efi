@@ -35,6 +35,7 @@ Please refer to the Dortania AMD guide for important settings you might need to 
  - Bluetooth
  - Virtualization (This is known on AMD hackintoshes)
  - Some features of certain Adobe Apps. (Like motion stabilizing in Premiere Pro)
+ - Joining calls on the official Discord app. (Might just be a personal issue, but Vesktop does not suffer from this issue.)
 
 ~~**Solution I found for networking:** If you don't have access to a compatible network adapter or networking card, you can use an Android device to function as a USB Wi-Fi adapter. Using **[HoRNDIS](https://github.com/jwise/HoRNDIS)**, you can connect an Android phone for tethering on macOS. Keep in mind, this might not work on some devices (like carrier locked devices) and my device is a custom rommed Pixel. Using a Pixel 3 running Project Elixir, you can use it as a hotspot device using only Wi-Fi (similar to how hotspot sharing works on Windows devices). Obviously, due to this approach, you will not get iServices.~~
 
