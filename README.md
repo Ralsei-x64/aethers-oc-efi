@@ -16,8 +16,8 @@
 The USB ports and AMD patches are tailored to my specific configuration. Be careful if you decide to use slightly different hardware. I doubt switching GPUs or CPUs will be an issue. However, update the core count patches to fit your CPU core count. WhateverGreen should take care of most GPU related patches; just make sure you're using an AMD GPU.
 
 **Compatible OS Versions:**
-Only macOS Sequoia 15 is tested. Your luck with anything newer or older will vary.
-EFI for macOS Tahoe will be available soon.
+- macOS Sequoia 15 (Use this branch, stable.)
+- macOS Tahoe 26 (Use the Tahoe-Beta branch, very much experimental.)
 
 You will need to use MacSerial in order to generate SMBIOS info if you want to use iServices.
 
@@ -36,8 +36,6 @@ Please refer to the Dortania AMD guide for important settings you might need to 
  - Virtualization (This is known on AMD hackintoshes)
  - Some features of certain Adobe Apps. (Like motion stabilizing in Premiere Pro)
  - Joining calls on the official Discord app. (Might just be a personal issue, but Vesktop does not suffer from this issue.)
-
-~~**Solution I found for networking:** If you don't have access to a compatible network adapter or networking card, you can use an Android device to function as a USB Wi-Fi adapter. Using **[HoRNDIS](https://github.com/jwise/HoRNDIS)**, you can connect an Android phone for tethering on macOS. Keep in mind, this might not work on some devices (like carrier locked devices) and my device is a custom rommed Pixel. Using a Pixel 3 running Project Elixir, you can use it as a hotspot device using only Wi-Fi (similar to how hotspot sharing works on Windows devices). Obviously, due to this approach, you will not get iServices.~~
 
 ps. If you have anything to contribute, please do <3.
 
