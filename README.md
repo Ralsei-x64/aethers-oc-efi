@@ -38,7 +38,7 @@ Please refer to the Dortania AMD guide for important settings you might need to 
  - Joining calls on the official Discord app. (Might just be a personal issue, but Vesktop does not suffer from this issue.)
 
 **Acknowledgements:**
-- The [AMD OS X](https://discord.com/invite/EfCYAJW) discord for providing a patched version of AppleIGC which works with my system.
+- The [AMD OS X](https://discord.com/invite/EfCYAJW) for being insanely helpful and providing a patched version of AppleIGC
 - [AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) for AMD patches
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for teaching me how to set up OpenCore
 - [Apple](https://apple.com) for macOS
