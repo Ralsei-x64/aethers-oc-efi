@@ -45,3 +45,5 @@ If you're updating macOS, disable WhateverGreen. WhateverGreen will cause crashe
 - [AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/tree/beta) for AMD patches
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for teaching me how to set up OpenCore
 - [Apple](https://apple.com) for macOS
+
+ps. If you have anything to contribute, please do <3.
