@@ -41,7 +41,7 @@ Please refer to the Dortania AMD guide for important settings you might need to 
 If you're updating macOS, disable WhateverGreen. WhateverGreen will cause crashes during the update process! It's okay to re-enable it after you're done updating.
 
 **Acknowledgements:**
-- The [AMD OS X](https://discord.com/invite/EfCYAJW) discord for providing a patched version of AppleIGC which works with my system.
+- [AMD OS X](https://discord.com/invite/EfCYAJW) for providing a patched AppleIGC and the massive amount of help they were to me.
 - [AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/tree/beta) for AMD patches
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for teaching me how to set up OpenCore
 - [Apple](https://apple.com) for macOS
