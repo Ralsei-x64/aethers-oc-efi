@@ -5,15 +5,13 @@
 
 <img width="2560" height="1440" alt="Screenshot 2025-07-15 at 15 21 53" src="https://github.com/user-attachments/assets/93b97780-86f2-40cf-a051-66ab77afec58" />
 
-**For AMD only!**
-
 **This config applies for the following:**
  - AMD Ryzen 9 5900X
  - AMD Radeon RX 6600XT
  - ROG Strix B550-F Wi-Fi II
  - Intel I225-V Ethernet
 
-The USB ports and AMD patches are tailored to my specific configuration. Be careful if you decide to use slightly different hardware. I doubt switching GPUs or CPUs will be an issue. However, update the core count patches to fit your CPU core count. WhateverGreen should take care of most GPU related patches; just make sure you're using an AMD GPU.
+The USB ports and AMD patches are tailored to my specific configuration. Be careful if you decide to use slightly different hardware.
 
 **Compatible OS Versions:**
 - macOS Sequoia 15 (Use this branch, stable.)
