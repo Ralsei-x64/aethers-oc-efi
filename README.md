@@ -37,6 +37,10 @@ Please refer to the Dortania AMD guide for important settings you might need to 
  - Some features of certain Adobe Apps. (Like motion stabilizing in Premiere Pro)
  - Joining calls on the official Discord app. (Might just be a personal issue, but Vesktop does not suffer from this issue.)
 
-ps. If you have anything to contribute, please do <3.
+**Acknowledgements:**
+- The [AMD OS X](https://discord.com/invite/EfCYAJW) discord for providing a patched version of AppleIGC which works with my system.
+- [AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) for AMD patches
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for teaching me how to set up OpenCore
+- [Apple](https://apple.com) for macOS
 
-**Thanks to the AMD OS X discord for providing a patched version of AppleIGC which works with my system.**
+ps. If you have anything to contribute, please do <3.
