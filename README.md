@@ -5,6 +5,8 @@
 
 <img width="2560" height="1440" alt="Screenshot 2025-07-15 at 15 21 53" src="https://github.com/user-attachments/assets/93b97780-86f2-40cf-a051-66ab77afec58" />
 
+##This branch is for macOS Sequoia! If you're looking for Tahoe, use the Tahoe-Beta branch.
+
 **This config applies for the following:**
  - AMD Ryzen 9 5900X
  - AMD Radeon RX 6600XT
@@ -38,7 +40,3 @@ Please refer to the Dortania AMD guide for important settings you might need to 
 ps. If you have anything to contribute, please do <3.
 
 **Thanks to the AMD OS X discord for providing a patched version of AppleIGC which works with my system.**
-
-*Warning: For the current version ("Fixing I225-V Networking"), configurator tools were used. The upcoming version which works with Tahoe will feature a redone config from scratch.*
-
-Do not upgrade to Tahoe yet. From my testing, it does not boot. I'm currently working on a new EFI which will boot Tahoe.
