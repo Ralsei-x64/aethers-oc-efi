@@ -5,6 +5,7 @@
 
 <img width="2560" height="1440" alt="Screenshot 2025-09-04 at 17 25 40" src="https://github.com/user-attachments/assets/ba039a79-991a-4117-a7be-f9e5bec4673c" />
 
+This branch is for macOS Tahoe! If you're looking for Sequoia, use the Sequoia-Stable branch.
 
 **This config applies for the following:**
  - AMD Ryzen 9 5900X
