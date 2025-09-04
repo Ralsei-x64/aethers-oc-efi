@@ -38,4 +38,10 @@ Please refer to the Dortania AMD guide for important settings you might need to 
  - Joining calls on the official Discord app. (Might just be a personal issue, but Vesktop does not suffer from this issue.)
  - Motherboard Audio (AppleALC is currently broken. Use DisplayPort/HDMI audio or a USB audio device to negate this)
 
-If you're updating macOS, disable WhateverGreen. WhateverGreen will cause crashes during the update process; It's okay to re-enable it after you're done updating.
+If you're updating macOS, disable WhateverGreen. WhateverGreen will cause crashes during the update process! It's okay to re-enable it after you're done updating.
+
+**Acknowledgements:**
+- The [AMD OS X](https://discord.com/invite/EfCYAJW) discord for providing a patched version of AppleIGC which works with my system.
+- [AMD Vanilla](https://github.com/AMD-OSX/AMD_Vanilla/tree/beta) for AMD patches
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for teaching me how to set up OpenCore
+- [Apple](https://apple.com) for macOS
